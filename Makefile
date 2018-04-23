@@ -1,3 +1,4 @@
+#makefile
 CC = gcc
 C++ = g++
 LINK = g++
